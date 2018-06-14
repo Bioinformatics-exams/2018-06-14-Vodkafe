@@ -54,4 +54,11 @@ a) NM_001190274.1 est la variation du gène FBXO11 qui est utilisé ici en tant 
 b) HGVS est la nomenclature utilisée
 c) GRCh37/hg19 est la version du génome de référence utilisé
 ### Q4
+La technique utilisée pour l'exploration des patients 1 et 2 est le whole exome sequencing (WES). Cette méthode se fait en deux étapes, la première est de séparer les exons du patients du reste de son génome , d'amplifier ces sequences d'ADN avec une PCR et enfin de séquencer ces exons.
+### Q5
+Le sequançage de Sanger a été utilisé pour confirmer les variations du FBOX11 desz deux patients ainsi que ces varitions n'était pas présente chez leur parents (de novo). On a utilisé le sequençage de Sanger car celui ci fait moins d'erreur que les NGS.
+### Q6
+Pour la patient 1, la mutation entraine une bordure intron-exon altérée ce qui a de grandes chances d'entrainer des erreurs dans l'epissage de ce gène. Aucune autre mutation de novo avec ce critère n'as été trouvé.
+Pour le patient 2, la mutation entraine un décalage dans le cadre de lecture, ce qui entraine un codon stop prématuré en position 913 : la protéine est tronquée et a de fortes chances de ne pas etre fonctionelles. Une autre variation (liée au syndrome de Coffin-Siris) a été trouvé mais étant donné que ce gène est aussi présent chez la mère, cette variation est probablement benigne.
+### Q7
 
