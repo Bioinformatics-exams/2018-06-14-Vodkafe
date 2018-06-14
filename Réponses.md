@@ -18,7 +18,9 @@ Ce type de maladie se transmets dans les formes familiales de la mère à la fil
 La notation protéique au format HGVS sont :
 
 NM_004992.3:c.473C>T -> NM_004992.3(MECP2_i001):p.(Thr158Met)
+
 NM_004992.3:c.603G>A -> NM_004992.3(MECP2_i001):p.(=)
+
 ### Q8
 NM veut dire ARNm
 NM_XXXXX est l'accession number
