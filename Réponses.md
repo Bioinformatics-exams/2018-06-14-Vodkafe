@@ -50,7 +50,9 @@ NC_000023.10 est l'accession number
 g.153296806G>A signifie qu'une base G en position 153296806 a été remplacée par un A
 ### Q13
 Ces deux variants ne figurent pas dans la base de données gnomAD.
+
 http://gnomad.broadinstitute.org/variant/23-153296806-G-A
+
 http://gnomad.broadinstitute.org/variant/23-153296676-C-T
 
 ## Exercice 2
@@ -58,7 +60,7 @@ http://gnomad.broadinstitute.org/variant/23-153296676-C-T
 a) OMIM est une base de donnée de gènes qui dresse un catalogue de toutes les maladies connues qui relèvent de l'un ou l'autre composant génétique.
 b)DDG2P est une autre base de données qui dresse un catalogue sur les deficiences intellectuelles qui relèvent d'un composant génétique.
 ### Q2
-
+/
 ### Q3
 a) NM_001190274.1 est la variation du gène FBXO11 qui est utilisé ici en tant que référence.
 b) HGVS est la nomenclature utilisée
