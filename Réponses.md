@@ -16,6 +16,7 @@ Ce type de maladie s'exprime exclusivement chez les femmes car la mutation non c
 Ce type de maladie se transmets dans les formes familiales de la mère à la fille, mais la majorité des cas sont sporadiques.
 ### Q7
 La notation protéique au format HGVS sont :
+
 NM_004992.3:c.473C>T -> NM_004992.3(MECP2_i001):p.(Thr158Met)
 NM_004992.3:c.603G>A -> NM_004992.3(MECP2_i001):p.(=)
 ### Q8
