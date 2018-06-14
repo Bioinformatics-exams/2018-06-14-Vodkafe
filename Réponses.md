@@ -36,11 +36,7 @@ NM_004992.3:c.473C>T -> il s'agit d'une mutation faux-sens
 
 NM_004992.3:c.603G>A -> il s'agit d'un variant synonyme
 ### Q10
-http://mecp2.chw.edu.au/cgi-bin/mecp2/search/process-search.cgi
-
 On voit ici que la variation NM_004992.3:c.603G>A est silencieuse car elle est dans une région intronique : cette mutation n'explique pas le syndrome de RETT.
-
-http://mecp2.chw.edu.au/cgi-bin/mecp2/search/process-search.cgi
 
 Au contraire, avec le variant NM_004992.3:c.473C>T on voit que de nombreux cas de personnes atteint du sundrome de Rett on été repertorié avec ce variant: ce variant explique surement le syndrome de Rett
 ### Q11
