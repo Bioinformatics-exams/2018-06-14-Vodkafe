@@ -40,11 +40,18 @@ NC_000023.10 est l'accession number
 .10 donne la version du gène
 g.153296806G>A signifie qu'une base G en position 153296806 a été remplacée par un A
 ### Q13
-D'après GnomAD la fréquence du gène NM_004992.3:c.473C>T dans la population mondiale est de	0.001769 et celle du gène NM_004992.3:c.603G>A
+D'après GnomAD la fréquence du gène NM_004992.3:c.473C>T dans la population mondiale est de	 et celle du gène NM_004992.3:c.603G>A
 
 
 ## Exercice 2
 ### Q1
-Texte de votre réponse…
+a) OMIM est une base de donnée de gènes qui dresse un catalogue de toutes les maladies connues qui relèvent de l'un ou l'autre composant génétique.
+b)
 ### Q2
-Texte de votre réponse…
+
+### Q3
+a) NM_001190274.1 est la variation du gène FBXO11 qui est utilisé ici en tant que référence.
+b) HGVS est la nomenclature utilisée
+c) GRCh37/hg19 est la version du génome de référence utilisé
+### Q4
+
